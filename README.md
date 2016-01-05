@@ -48,6 +48,7 @@ Notice that each Xref is clickable !
 ## Requirements
 
 - IDA (Hex Rays Interactive Disassembler) version >= 6.1 with IDAPython
+- tested on IDA 6.1.1 (Tell me about your experience on higher versions!)
 
 ## Installation
 
