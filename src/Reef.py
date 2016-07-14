@@ -163,7 +163,7 @@ PLUGIN_CHOOSER_FORM_TEMPLATE = \
 r"""BUTTON YES* OK
 BUTTON CANCEL Cancel
 %s
-< :{Chooser}>
+<Xrefs From:{Chooser}>
 """
 
 class ReefPluginChooserForm( idaapi.Form ):
